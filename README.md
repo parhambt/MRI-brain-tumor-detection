@@ -14,6 +14,8 @@
 
 و بعد دیتا را لود میکنیم و pre proccess های رایج مانند resize کردن و ... انجام میدهیم 
 بعد از لود کردن دیتا باید برویم به سراغ ساخت مدل Convolutional neural network که تصاویر زیر به خوبی مدل هوش مصنوعی ساخته شده را تشریح میکنند 
+
+
 ![CNN map](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/57111c59-2eef-4e2d-ba7a-8da76b4ddcc5)
 ![neural network map](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/5b7fbde9-8c13-4232-a674-751beabea482)
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/48566f99-2eee-449e-9bda-4570ad26f3da)
