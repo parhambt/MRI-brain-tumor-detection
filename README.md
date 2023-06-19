@@ -37,6 +37,11 @@
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/494a91ff-2f87-4701-b5b8-7b2e6fb841d1)
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/85c7f16d-4dd2-4709-97ec-cdbea6897859)
 
+
+
+
+
+
 ## برای دیدن توضیحات تخصصی تر به 2 مقاله زیر مراجعه کنید 
 
 
