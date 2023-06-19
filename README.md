@@ -48,8 +48,7 @@ https://docs.anaconda.com/free/anaconda/install/windows/
 
 
 دیتا لود شده از فایل های yes , no برای train کردن مدل هست ( فایل های اصلی yes , no  هر کدام 1500 عکس داشتند اما به دلیل محدودیت گیت هاب درگیت هاب اپلود نشد )
-و بعد دیتا را لود میکنیم و pre proccess های رایج مانند resize کردن و ... انجام میدهیم 
-بعد از لود کردن دیتا باید برویم به سراغ ساخت مدل Convolutional neural network که تصاویر زیر به خوبی مدل هوش مصنوعی ساخته شده را تشریح میکنند 
+و بعد دیتا را لود می کنیم و pre proccess های رایج مانند resize کردن و غیره را انجام می دهیم. بعد از لود کردن دیتا باید برویم سراغ ساخت مدل Convolutional neural network که تصاویر زیر به خوبی مدل هوش مصنوعی ساخته شده را تشریح می کنند:
 
 
 ![CNN map](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/d0ecb921-5afe-48a0-b4ba-932eaf0c9776)
