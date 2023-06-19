@@ -33,7 +33,7 @@ https://docs.anaconda.com/free/anaconda/install/windows/
 - راه دوم: همچنین می توانید نام کتابخانه هایی که در زیر آمده است را تک به تک با دستور pip install نصب کنید به طور مثال برای نصب numpy باید از دستور pip install numpy و یا برای نصب opencv باید از دستور pip install opencv-contrib-python استفاده کنید.
 
   
-در گام اول ما کتابخانه های مورد نظر را دانلود و سپس import میکنیم
+در گام اول ما کتابخانه های مورد نظر را دانلود و سپس import می کنیم:
 
 
 
