@@ -12,12 +12,22 @@
 ![neural network map](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/5b7fbde9-8c13-4232-a674-751beabea482)
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/48566f99-2eee-449e-9bda-4570ad26f3da)
 
-و بعد از ساخت مدل باید مدل را روی اطلاعات مخصوص train کردن train کنیم و بعد از ان باید به سراغ evaluate کردن مدل ساخته شده برویم تا بدانیم مدل ساخته شده تا چه حد قابل اتکا است 
+و بعد از ساخت مدل باید مدل را روی اطلاعات مخصوص train کردن train کنیم و بعد از ان باید به سراغ evaluate کردن مدل ساخته شده برویم تا بدانیم مدل ساخته شده تا چه حد قابل اتکا است
+
+
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/6c3fcc9d-25e8-44d9-94c0-2d005eab9bf8)
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/a7b71955-acdb-4ae5-a2d2-20b863d8c4c5)
+
+
 خب همانطور که میبینید مدل ساخته شده با دقت بالای 90 درصد است و این یعنی کار ما خوب بوده است 
 ما برای اینکه افراد غیر متخصص در کار با کامپیوتر بتوانند از این هوش مصنوعی train شده استفاده ببرند یک اپلیکیشن گرافیکی که بدون هیچ دانش فنی قبلی قابل استفاده هست هم درست کردیم که در فایل interface AI اس
 موجود هست میتوانید فولدر inteface AI را دانلود کنید و بعد فایل main_app_interface.py را اجرا کنید برنامه ای مانند برنامه زیر برای شما باز خواهد شد :
+
+
+
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/494a91ff-2f87-4701-b5b8-7b2e6fb841d1)
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/85c7f16d-4dd2-4709-97ec-cdbea6897859)
+
+
+
 پیغام tumor has been detected به معنای این است که عکس ورودی دارای تومور است و پیغام tumor has not been detected به معنای این است که عکس ورودی تومور مغزی ندارد 
