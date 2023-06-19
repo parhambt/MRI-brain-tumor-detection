@@ -6,7 +6,8 @@ https://docs.anaconda.com/free/anaconda/install/windows/
 
 برای نصب پکیج ها در  Anaconda به توضیحات زیر توجه کنید 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/fb2f3e2d-14a0-4807-a6aa-d08a30b4fc51)
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/0537fd1c-2807-475e-8b3f-a6bba81e0e57)
+
 
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/0f4e7ded-9028-44f5-9f1f-43348225a032)
 
