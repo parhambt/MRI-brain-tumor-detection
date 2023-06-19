@@ -1,4 +1,20 @@
 # این پروژه به هدف  تشخیص تومور مغزی و برای جشنواره جوان خوارزمی ساخته شده
+### برای ران کردن کد ها حتما Anaconda را نصب کنید 
+کدهای بخش parham_tumor_detection_1.ipunb در محیط jupyter notebook  نوشته شده و برای نصب این محیط کافی است pip install notebook را در ترمینال خود وارد کنید و بخش interface AI در محیط vscode نوشته شده برای اینکه بتوانید همزمان هم vscode , jupyter notebook  داشته باشید پیشنهاد میشود از Anaconda استفاده کنید میتوانید ان را از لینک زیر دانلود کنید 
+
+https://docs.anaconda.com/free/anaconda/install/windows/
+برای نصب پکیج ها در  Anaconda به توضیحات زیر توجه کنید 
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/fb2f3e2d-14a0-4807-a6aa-d08a30b4fc51)
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/0f4e7ded-9028-44f5-9f1f-43348225a032)
+
+برای مثال برای نصب scikit-learn باید اینگونه عمل کرد : 
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/11adcf52-bdba-4fa4-b7cc-4180f83ff55a)
+
+
+
+
 حتما دقت کنید پایتون 3.7 به بالا روی سیستم خود نصب داشته باشید 
 این پروژه با پایتون 3.10.2 و 3.11.0 نوشته شده 
 
