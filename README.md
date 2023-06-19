@@ -32,25 +32,12 @@
 ما برای اینکه افراد غیر متخصص در کار با کامپیوتر بتوانند از این هوش مصنوعی train شده استفاده ببرند یک اپلیکیشن گرافیکی که بدون هیچ دانش فنی قبلی قابل استفاده هست هم درست کردیم که در فایل interface AI اس
 موجود هست میتوانید فولدر inteface AI را دانلود کنید و بعد فایل main_app_interface.py را اجرا کنید برنامه ای مانند برنامه زیر برای شما باز خواهد شد :
 
-
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/494a91ff-2f87-4701-b5b8-7b2e6fb841d1)
-
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/85c7f16d-4dd2-4709-97ec-cdbea6897859)
 
 
 
 
-
-
-
-## برای دیدن توضیحات تخصصی تر به 2 مقاله زیر مراجعه کنید 
-
-
-
 https://docs.google.com/document/d/1-h8tFb-UcmNRq1bDEgR_p85YqujXjNzDqkKvziCaB5Q/edit?usp=sharing
-
 https://docs.google.com/document/d/1NSXaa76TmP0o9osXxUlGiU-O8tC8RSA7hDvqFKz-1XM/edit?usp=sharing
-
-
-
 پیغام tumor has been detected به معنای این است که عکس ورودی دارای تومور است و پیغام tumor has not been detected به معنای این است که عکس ورودی تومور مغزی ندارد 
