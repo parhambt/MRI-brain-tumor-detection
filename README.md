@@ -3,6 +3,7 @@
 کدهای بخش parham_tumor_detection_1.ipunb در محیط jupyter notebook  نوشته شده و برای نصب این محیط کافی است pip install notebook را در ترمینال خود وارد کنید و بخش interface AI در محیط vscode نوشته شده برای اینکه بتوانید همزمان هم vscode , jupyter notebook  داشته باشید پیشنهاد میشود از Anaconda استفاده کنید میتوانید ان را از لینک زیر دانلود کنید 
 
 https://docs.anaconda.com/free/anaconda/install/windows/
+
 برای نصب پکیج ها در  Anaconda به توضیحات زیر توجه کنید 
 
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/fb2f3e2d-14a0-4807-a6aa-d08a30b4fc51)
