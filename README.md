@@ -33,9 +33,10 @@
 موجود هست میتوانید فولدر inteface AI را دانلود کنید و بعد فایل main_app_interface.py را اجرا کنید برنامه ای مانند برنامه زیر برای شما باز خواهد شد :
 
 
-
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/494a91ff-2f87-4701-b5b8-7b2e6fb841d1)
+
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/85c7f16d-4dd2-4709-97ec-cdbea6897859)
+
 
 
 
