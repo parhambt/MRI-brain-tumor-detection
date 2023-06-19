@@ -1,10 +1,10 @@
 # این پروژه به هدف  تشخیص تومور مغزی و برای جشنواره جوان خوارزمی ساخته شده
 ### برای ران کردن کد ها حتما Anaconda را نصب کنید 
-کدهای بخش parham_tumor_detection_1.ipunb در محیط jupyter notebook  نوشته شده و  بخش interface AI در محیط vscode نوشته شده برای اینکه بتوانید همزمان هم vscode و هم jupyter notebook را داشته باشید پیشنهاد می شود از Anaconda استفاده کنید که می توانید آن را از لینک زیر دانلود کنید
+کدهای بخش parham_tumor_detection_1.ipunb در محیط jupyter notebook  نوشته شده و  بخش interface AI در محیط vscode نوشته شده برای اینکه بتوانید همزمان هم vscode و هم jupyter notebook را داشته باشید پیشنهاد می شود از Anaconda استفاده کنید که می توانید آن را از لینک زیر دانلود کنید :
 
 https://docs.anaconda.com/free/anaconda/install/windows/
 
-برای نصب پکیج ها در  Anaconda به توضیحات زیر توجه کنید 
+برای نصب پکیج ها در  Anaconda به توضیحات زیر توجه کنید  :
 
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/f8e823bb-fe05-423b-8bd0-ca934fd3aed6)
 
