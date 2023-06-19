@@ -6,15 +6,19 @@ https://docs.anaconda.com/free/anaconda/install/windows/
 
 برای نصب پکیج ها در  Anaconda به توضیحات زیر توجه کنید 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/0537fd1c-2807-475e-8b3f-a6bba81e0e57)
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/f8e823bb-fe05-423b-8bd0-ca934fd3aed6)
 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/0f4e7ded-9028-44f5-9f1f-43348225a032) 
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/41d1127b-48c2-4537-b754-c950316b428b)
+
+
 
 برای مثال برای نصب scikit-learn باید اینگونه عمل کرد : 
 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/11adcf52-bdba-4fa4-b7cc-4180f83ff55a)
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/51b17bb6-dd01-4886-85ef-df3373ab482c)
+
 
 و بعد باید enter زد 
 
@@ -50,15 +54,18 @@ https://docs.anaconda.com/free/anaconda/install/windows/
 بعد از لود کردن دیتا باید برویم به سراغ ساخت مدل Convolutional neural network که تصاویر زیر به خوبی مدل هوش مصنوعی ساخته شده را تشریح میکنند 
 
 
-![CNN map](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/57111c59-2eef-4e2d-ba7a-8da76b4ddcc5)
-![neural network map](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/5b7fbde9-8c13-4232-a674-751beabea482)
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/48566f99-2eee-449e-9bda-4570ad26f3da)
+![CNN map](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/d0ecb921-5afe-48a0-b4ba-932eaf0c9776)
+
+![neural network map](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/9f178897-88a9-4b66-9055-365bcdbd9ad9)
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/75ef7ce4-8207-4f68-8b88-872dcd663f94)
+
 
 و بعد از ساخت مدل باید مدل را روی اطلاعات مخصوص train کردن train کنیم و بعد از ان باید به سراغ evaluate کردن مدل ساخته شده برویم تا بدانیم مدل ساخته شده تا چه حد قابل اتکا است
 
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/e0c0749c-1694-4ddf-88aa-033d31fdb411)
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/dcba4755-928c-4263-9938-5eb464c4998f)
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/6c3fcc9d-25e8-44d9-94c0-2d005eab9bf8)
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/a7b71955-acdb-4ae5-a2d2-20b863d8c4c5)
 
 
 خب همانطور که میبینید مدل ساخته شده با دقت بالای 90 درصد است و این یعنی کار ما خوب بوده است 
