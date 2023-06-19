@@ -11,6 +11,8 @@ https://docs.anaconda.com/free/anaconda/install/windows/
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/0f4e7ded-9028-44f5-9f1f-43348225a032)
 
 برای مثال برای نصب scikit-learn باید اینگونه عمل کرد : 
+
+
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/11adcf52-bdba-4fa4-b7cc-4180f83ff55a)
 
 
