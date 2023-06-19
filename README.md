@@ -1,11 +1,17 @@
-# این پروژه به هدف  تشخیص تومور مغزی و برای جشنواره جوان خوارزمی ساخته شده 
+# این پروژه به هدف  تشخیص تومور مغزی و برای جشنواره جوان خوارزمی ساخته شده
+
 در گام اول ما کتابخانه های مورد نظر را دانلود و سپس import میکنیم
+
+
+
 - tensorflow
 - opencv
 - skleran
 - numpy
 - keras
 - matplotlib
+
+
 و بعد دیتا را لود میکنیم و pre proccess های رایج مانند resize کردن و ... انجام میدهیم 
 بعد از لود کردن دیتا باید برویم به سراغ ساخت مدل Convolutional neural network که تصاویر زیر به خوبی مدل هوش مصنوعی ساخته شده را تشریح میکنند 
 ![CNN map](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/57111c59-2eef-4e2d-ba7a-8da76b4ddcc5)
