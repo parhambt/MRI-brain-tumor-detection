@@ -15,6 +15,7 @@ https://docs.anaconda.com/free/anaconda/install/windows/
 
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/11adcf52-bdba-4fa4-b7cc-4180f83ff55a)
 
+و بعد باید enter زد 
 
 
 
