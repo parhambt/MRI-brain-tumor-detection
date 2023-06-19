@@ -12,6 +12,7 @@
 - matplotlib
 
 
+دیتا لود شده از فایل های yes , no برای train کردن مدل هست ( فایل های اصلی yes , no  هر کدام 1500 عکس داشتند اما به دلیل محدودیت گیت هاب در اپلود نشد تمام عکس ها اپلود شود )
 و بعد دیتا را لود میکنیم و pre proccess های رایج مانند resize کردن و ... انجام میدهیم 
 بعد از لود کردن دیتا باید برویم به سراغ ساخت مدل Convolutional neural network که تصاویر زیر به خوبی مدل هوش مصنوعی ساخته شده را تشریح میکنند 
 
@@ -35,6 +36,14 @@
 
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/494a91ff-2f87-4701-b5b8-7b2e6fb841d1)
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/85c7f16d-4dd2-4709-97ec-cdbea6897859)
+
+## برای دیدن توضیحات تخصصی تر به 2 مقاله زیر مراجعه کنید 
+
+
+
+https://docs.google.com/document/d/1-h8tFb-UcmNRq1bDEgR_p85YqujXjNzDqkKvziCaB5Q/edit?usp=sharing
+
+https://docs.google.com/document/d/1NSXaa76TmP0o9osXxUlGiU-O8tC8RSA7hDvqFKz-1XM/edit?usp=sharing
 
 
 
