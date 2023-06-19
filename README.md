@@ -29,7 +29,7 @@ https://docs.anaconda.com/free/anaconda/install/windows/
 
 راه های دانلود کردن کتابخانه های مورد نیاز 
 
-- راه اول برای دانلود کردن کتابخانه های مورد نیاز: فایل Requierments.txt را دانلود کنید و در ترمینال pip install -r Requiermentes.txt را بزنید دقت کنید که با استفاده از command line اول باید دایرکتوری خود را با استفاده از دستور cd به دایرکتوری ای ببرید که فایل Requierments.txt در آن وجود دارد
+- راه اول برای دانلود کردن کتابخانه های مورد نیاز: فایل Requierments.txt را دانلود کنید و در ترمینال pip install -r Requiermentes.txt را بزنید دقت کنید که ابتدا باید با استفاده از command line دایرکتوری خود را با استفاده از دستور cd به دایرکتوری ای ببرید که فایل Requierments.txt در آن وجود دارد.
 - راه دوم: همچنین میتوانید نام کتابخانه هایی که در زیر امده است تک به تک با دستور pip install نصب کنید به طور مثال برای نصب numpy باید از دستور pip install numpy و یا برای نصب opencv باید از دستور  pip install opencv-contrib-python باید استفاده کنیم
 
   
