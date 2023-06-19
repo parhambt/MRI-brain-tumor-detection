@@ -57,8 +57,7 @@ https://docs.anaconda.com/free/anaconda/install/windows/
 
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/75ef7ce4-8207-4f68-8b88-872dcd663f94)
 
-
-و بعد از ساخت مدل باید مدل را روی اطلاعات مخصوص train کردن train کنیم و بعد از ان باید به سراغ evaluate کردن مدل ساخته شده برویم تا بدانیم مدل ساخته شده تا چه حد قابل اتکا است
+و بعد از ساخت مدل باید مدل را روی اطلاعات مخصوص train کردن، train کنیم و بعد از آن باید به سراغ evaluate کردن مدل ساخته شده برویم تا بدانیم مدل ساخته شده تا چه حد قابل اتکا است.
 
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/e0c0749c-1694-4ddf-88aa-033d31fdb411)
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/dcba4755-928c-4263-9938-5eb464c4998f)
