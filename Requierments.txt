@@ -1,1 +1,9 @@
-# MRI-brain-tumor-detection
+
+numpy
+opencv-contrib-python
+tensorflow
+scikit-learn
+pillow
+pandas
+keras
+matplotlib
