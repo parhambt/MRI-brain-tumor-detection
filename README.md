@@ -78,12 +78,13 @@ https://docs.anaconda.com/free/anaconda/install/windows/
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/c9eca128-9ad8-410b-84cb-96da2c02d9cc)
 
 
+پیغام tumor has been detected به معنای این است که عکس ورودی دارای تومور است و پیغام tumor has not been detected به معنای این است که عکس ورودی تومور مغزی ندارد.
+
+
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/5f87f43c-552f-477f-92a1-8adcaacfb679)
 
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/7ee1289f-b6e7-4e09-9a2d-aa76002b0c5e)
 
-
-پیغام tumor has been detected به معنای این است که عکس ورودی دارای تومور است و پیغام tumor has not been detected به معنای این است که عکس ورودی تومور مغزی ندارد.
 
 ## برای دیدن توضیحات تخصصی تر در مورد این کد ها به لینک های زیر مراجعه کنید 
 
