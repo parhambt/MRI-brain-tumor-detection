@@ -72,10 +72,10 @@ https://docs.anaconda.com/free/anaconda/install/windows/
 ### محیط گرافیکی برای راحتی استفاده 
 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/c9eca128-9ad8-410b-84cb-96da2c02d9cc)
-
 
 ما برای اینکه افراد غیر متخصص در کار با کامپیوتر بتوانند از این هوش مصنوعی train شده استفاده کنند، یک اپلیکیشن گرافیکی که بدون هیچ دانش فنی قبلی قابل استفاده هست هم درست کردیم که در فایل interface AI موجود می باشد. شما می توانید فولدر inteface AI را دانلود کنید و بعد فایل main_app_interface.py را اجرا کنید. برنامه ای مانند برنامه زیر برای شما باز خواهد شد :
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/c9eca128-9ad8-410b-84cb-96da2c02d9cc)
 
 
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/5f87f43c-552f-477f-92a1-8adcaacfb679)
