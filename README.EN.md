@@ -62,13 +62,13 @@ and  i use U-Net alghorithm for tumor segmentation beacuse U-Net is so accurate 
 ### statistics model  evaluate 
 
 
-evaluate on test dataset :
+evaluate on classification test dataset :
 
 
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/19702c3e-750d-460f-8575-a18b6d987b20)
 
 
-statistics during training : 
+statistics during training classification model : 
 
 
 ![plot_acc_class](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/65a14a8d-9ee9-4aef-8b99-9da458b645b4)
@@ -77,13 +77,13 @@ statistics during training :
 
 ![plot_loss_class](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/abab39cf-3881-4093-b20b-7e61d4c927c5)
 
-evaluate on test dataset :
+evaluate on segmentation test dataset :
 
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/fa3816af-7b9d-4e6b-aacf-cc080f843b64)
 
 
 
-statistics during training :
+statistics during training segmentation model  :
 
 
 
