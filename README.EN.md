@@ -1,7 +1,7 @@
-# Tumor Detection-Segmentation App
+# Tumor Detection-Segmentation Project
 
 
-we wrote 2 deep learning model for classification and segmetation of tumor and i also  create exe GUI application for who wants to use this project but donot have computer knowledge like doctors and medical reaserchers ...
+i wrote 2 deep learning model for classification and segmetation of tumor and i also  create exe GUI application for who wants to use this project but donot have computer knowledge like doctors and medical reaserchers ...
 i hope it will useful for you
  
 ## usage GUI Aplication
