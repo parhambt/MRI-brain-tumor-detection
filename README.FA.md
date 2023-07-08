@@ -66,24 +66,59 @@ https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/
 
 فایل mask maker : در این فایل ما بخشی از اطلاعات که خروجی annoatate گذاریشان به صورت فایل .json بود را به صورت ماسک هایی با فرمت jpg در اوردیم که با این کار ما اطلاعات را قابل خواندن و استفاده در مدل هوش مصنوعی نوشته شده کردیم 
 
-### محیط گرافیکی برای راحتی استفاده 
+### معماری مدل Classification 
+
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/d0fd0458-0cc5-4054-a7ea-21953cab2c72)
 
 
 
-ما برای اینکه افراد غیر متخصص در کار با کامپیوتر بتوانند از این هوش مصنوعی train شده استفاده کنند، یک اپلیکیشن گرافیکی که بدون هیچ دانش فنی قبلی قابل استفاده هست هم درست کردیم که در فایل interface AI موجود می باشد. شما می توانید فولدر inteface AI را دانلود کنید و بعد فایل main_app_interface.py را اجرا کنید. برنامه ای مانند برنامه زیر برای شما باز خواهد شد :
-
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/c9eca128-9ad8-410b-84cb-96da2c02d9cc)
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/89096be4-282b-471f-bdca-5004141bb8ff)
 
 
-پیغام tumor has been detected به معنای این است که عکس ورودی دارای تومور است و پیغام tumor has not been detected به معنای این است که عکس ورودی تومور مغزی ندارد.
 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/5f87f43c-552f-477f-92a1-8adcaacfb679)
-
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/7ee1289f-b6e7-4e09-9a2d-aa76002b0c5e)
+###معماری مدل Segmentation 
 
 
-## برای دیدن توضیحات تخصصی تر در مورد این کد ها به لینک های زیر مراجعه کنید 
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/b445062e-3840-40ab-bdb3-4feb8fd02ac8)
+
+
+### کارایی مدل های نوشته شده 
+
+ کارایی مدل Classification بر روی دیتاست های test
+
+
+ ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/3febfb38-148f-4d56-9ca3-925d8e6a9a6e)
+
+
+ امار های مدل Classification حین train شدن 
+
+ ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/bf896253-6621-4436-81f1-eceddeb39d55)
+
+
+ ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/f5db52e0-80b5-4ce0-bfc4-f9f93a8ec35c)
+
+
+ کارایی مدل Segmentation بر روی دیتاست های test
+
+
+ ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/8cfcfd56-5712-452f-9e86-5d86f3f0f198)
+
+امار های مدل Segmentation حین train شدن 
+
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/4295d9b7-ac58-435d-a72d-bfa0cefe0da3)
+
+
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/7d18e6c0-b28e-4413-af4f-a727afe3423c)
+
+
+
+
+
+## برای دیدن توضیحات تخصصی تر روی لینک زیر کلیک کنید 
 
 https://docs.google.com/document/d/1Ks_FQasrY04Yzl6VKujV9JxzLBfAXbLxyykMz2dH51I/edit
 
