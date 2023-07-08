@@ -40,7 +40,7 @@ second tip : also you can download bellow dependencies manually with pip install
 - pandas
 - keras
 
-- 
+
 ### important file
 
 
@@ -81,7 +81,7 @@ and  i use U-Net alghorithm for tumor segmentation beacuse U-Net is so accurate 
 
 
 
-### statistics model  evaluate 
+### Model Performance Statistics 
 
 
 evaluate on classification test dataset :
