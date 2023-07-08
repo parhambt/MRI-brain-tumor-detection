@@ -4,7 +4,7 @@
 we wrote 2 deep learning model for classification and segmetation of tumor and i also  create exe GUI application for who wants to use this project but donot have computer knowledge like doctors and medical reaserchers ...
 i hope it will useful for you
  
-## use GUI Aplication
+## usage GUI Aplication
 
 for using the exe appilcation you can easily download the latest release in github after downloading extract it and run the app_interface_5 and wait for a second and easily use it
 GUI Aplication does not need download any dependencies all of them is already exist in github release
@@ -55,7 +55,7 @@ i download   some dataset from kaggle and i  use them for training my model and 
 ### some explanation
 
 
-i ues  depp learning alghorithm call convolutional neural network(CNN) and dense neural network for train my data 
+i ues  deep learning alghorithm call convolutional neural network(CNN) and dense neural network for train my data 
 and  i use U-Net alghorithm for tumor segmentation beacuse U-Net is so accurate even with little dataset(like this case) and beacuse thease reason it is use a lot in medical AI model 
 
 ### Classification Model  Architecture 
