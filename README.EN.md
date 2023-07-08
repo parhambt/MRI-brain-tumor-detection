@@ -1,4 +1,4 @@
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/fe437163-8fc9-42df-84dc-d6b57b1b177c)# Tumor Detection-Segmentation App
+# Tumor Detection-Segmentation App
 
 
 we wrote 2 deep learning model for classification and segmetation of tumor and i also  create exe GUI application for who wants to use this project but donot have computer knowledge like doctors and medical reaserchers ...
@@ -75,6 +75,8 @@ statistics during training classification model :
 
 
 
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/fe437163-8fc9-42df-84dc-d6b57b1b177c)
 
 
 evaluate on segmentation test dataset :
