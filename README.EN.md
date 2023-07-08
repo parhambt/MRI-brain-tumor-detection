@@ -45,9 +45,14 @@ second tip : also you can download bellow dependencies manually with pip install
 
 
 we have 3 important python file(notebook)
-classification-tumor-finall: in this file i implement a model that able us to know what MRI has tumor and what MRI has not any tumor in fact this model classification all brain MRI to 2 class : has tumot , has not tumor
-this model do this job with more than 97% so it is reliable model
+
+
+classification-tumor-finall: in this file i implement a model that able us to know what MRI has tumor and what MRI has not any tumor in fact this model classification all brain MRI to 2 class ( has tumot , has not tumor) also this model do this job with more than 97% accuracy  so it is reliable model
+
+
 finall-version-tumor-segmentation : in this file i implement a model that able us to know location of the tumor in image this model has more than 98% accuracy in identifying the correct location and it has more than 78% accuracy in identifying the entire tumor area and it means i creat reliable model to know where tumor it is 
+
+
 mask maker : in this file i wrote some code to make my input data readable for my model i created
 i download   some dataset from kaggle and i  use them for training my model and i use annotation_data_1 and image_dataset directory for train tumor segmentation and i ues no , yes directory for training tumor classification.
 
