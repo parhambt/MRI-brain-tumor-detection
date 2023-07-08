@@ -58,6 +58,23 @@ i download   some dataset from kaggle and i  use them for training my model and 
 i ues  depp learning alghorithm call convolutional neural network(CNN) and dense neural network for train my data 
 and  i use U-Net alghorithm for tumor segmentation beacuse U-Net is so accurate even with little dataset(like this case) and beacuse thease reason it is use a lot in medical AI model 
 
+### Classification Model  Architecture 
+
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/598e882c-b5dd-4292-b583-48bbfbf34421)
+
+
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/0537f05b-0f0f-4468-a655-45dc7e87ada2)
+
+
+
+### Segmentation Model Architecture
+
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/85522af7-1e2e-4a53-89df-e763b336a85d)
+
+
 
 ### statistics model  evaluate 
 
