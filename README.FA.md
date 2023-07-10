@@ -120,6 +120,5 @@ https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/
 
 ## برای دیدن توضیحات تخصصی تر روی لینک زیر کلیک کنید 
 
-https://docs.google.com/document/d/1Ks_FQasrY04Yzl6VKujV9JxzLBfAXbLxyykMz2dH51I/edit
-
+https://docs.google.com/document/d/1XUfxEKE0AJt5y4NzkYA2xlDb3q7B3LhTOYJItp1oyQk/edit?usp=sharing
 
