@@ -1,8 +1,0 @@
-numpy
-opencv-contrib-python
-tensorflow
-scikit-learn
-pillow
-pandas
-keras
-matplotlib
