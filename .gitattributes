@@ -4,3 +4,5 @@ annotation_data_1/* filter=lfs diff=lfs merge=lfs -text
 app_interface_5/* filter=lfs diff=lfs merge=lfs -text
 backend[[:space:]]interface[[:space:]]AI/* filter=lfs diff=lfs merge=lfs -text
 app_interface/* filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+app_interface_5 filter=lfs diff=lfs merge=lfs -text
