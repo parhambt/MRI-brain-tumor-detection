@@ -6,7 +6,7 @@ i hope it will useful for you
  
 ## usage GUI Aplication
 
-for using the exe appilcation you can easily download the latest release in github after downloading extract it and run the app_interface_5 and wait for a second and easily use it
+for using the exe appilcation you can easily download the latest release in github  and run the app_GUI_interface.exe and wait for a second and easily use it
 GUI Aplication does not need download any dependencies all of them is already exist in github release
 
 
@@ -122,8 +122,5 @@ statistics during training segmentation model  :
 
 
 
-### for read more about this project follow bellow link : 
 
-
-https://docs.google.com/document/d/1Ks_FQasrY04Yzl6VKujV9JxzLBfAXbLxyykMz2dH51I/edit
   
