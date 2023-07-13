@@ -14,7 +14,9 @@
 
 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/f4a4b7c8-5efd-48ba-9a5e-9d137ecc16c5)
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/341ce923-bd59-49e4-920c-7d45b71f1822)
+
+
 
 
 
@@ -27,7 +29,12 @@
 در اولین گام کد ها را دانلود کنید (Download zip) از گیت هاب یا اگر با گیت هاب اشنا هستید میتوانید در محیط دلخواهتون کد ها رو clone کنید
 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/f56ec67a-8978-4523-aeb9-556c77c57842)
+
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/f4a4b7c8-5efd-48ba-9a5e-9d137ecc16c5)
+
+
+
 
 
 
@@ -77,8 +84,8 @@ https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/
 
 
 
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/f56ec67a-8978-4523-aeb9-556c77c57842)
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/09c5f484-0900-45d4-b354-e5ac416cf6c8)
 
 
 
@@ -86,9 +93,8 @@ https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/
 
 ###معماری مدل Segmentation 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/341ce923-bd59-49e4-920c-7d45b71f1822)
 
-
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/09c5f484-0900-45d4-b354-e5ac416cf6c8)
 
 ### کارایی مدل های نوشته شده 
 
