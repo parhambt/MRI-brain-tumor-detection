@@ -91,7 +91,7 @@ https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/
 
 
 
-###معماری مدل Segmentation 
+### معماری مدل Segmentation 
 
 
 ![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/09c5f484-0900-45d4-b354-e5ac416cf6c8)
