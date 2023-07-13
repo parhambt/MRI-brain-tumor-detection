@@ -10,12 +10,12 @@ for using the exe appilcation you can easily download the latest release in gith
 GUI Aplication does not need download any dependencies all of them is already exist in github release
 
 
-
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/ce286372-576a-40b6-9061-cb6c10d0dc46)
-
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/1c97b792-96a1-4f7c-a5da-2e18e0f6dd16)
 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/add25503-031d-415a-983a-9f6bd90affc0)
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/1bce1b16-7992-4ad0-a947-8f803531a85c)
+
 
 
 
@@ -66,18 +66,19 @@ and  i use U-Net alghorithm for tumor segmentation beacuse U-Net is so accurate 
 ### Classification Model  Architecture 
 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/598e882c-b5dd-4292-b583-48bbfbf34421)
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/bcae4663-322f-48a4-8d34-c10244abf755)
 
 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/0537f05b-0f0f-4468-a655-45dc7e87ada2)
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/6c9dd3c0-d049-4361-a34a-bf418240cccc)
+
 
 
 
 ### Segmentation Model Architecture
 
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/8beebee2-3dec-41a7-bfe8-3ba977fdcf87)
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/85522af7-1e2e-4a53-89df-e763b336a85d)
 
 
 
@@ -86,24 +87,27 @@ and  i use U-Net alghorithm for tumor segmentation beacuse U-Net is so accurate 
 
 evaluate on classification test dataset :
 
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/ac769932-b888-4408-8888-09298a235ce6)
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/19702c3e-750d-460f-8575-a18b6d987b20)
 
 
 statistics during training classification model : 
 
 
-![plot_acc_class](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/65a14a8d-9ee9-4aef-8b99-9da458b645b4)
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/39f29f23-317e-4eb4-951a-fca4455912b7)
 
 
 
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/fe437163-8fc9-42df-84dc-d6b57b1b177c)
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/6a73857b-5477-48a3-b127-72c2ec1d520d)
+
 
 
 evaluate on segmentation test dataset :
 
-![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/fa3816af-7b9d-4e6b-aacf-cc080f843b64)
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/be78de80-89e7-4121-afd3-22be509525c5)
+
 
 
 
@@ -111,13 +115,14 @@ statistics during training segmentation model  :
 
 
 
-
-![plot_acc_seg](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/9b3bbf55-d45c-45e1-95a4-2794e7f8e0c1)
-
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/6c2504e0-6070-40d3-897e-573ae33fabb0)
 
 
 
-![plot_loss_seg](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/b95b41cf-bb32-4c55-848b-71950917f3c2)
+
+
+![image](https://github.com/parhambt/MRI-brain-tumor-detection/assets/124530126/afe924df-6408-48af-a417-9dbafc6ef048)
+
 
 
 
