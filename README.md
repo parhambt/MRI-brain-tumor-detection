@@ -4,13 +4,13 @@
 
 
 
-if you want to read it with english language click in EN icon
+if you want to read it with english language click on EN icon
 
 
 اگر شما میخواهید توضیحات را به صورت فارسی مشاهده کنید رو ایکونی که FA بر روی ان نوشته شده کلیک کنید 
 
 
-developed by : parham bostani
+developed by : parham bostani | age : 16
 
 
 
